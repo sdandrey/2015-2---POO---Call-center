@@ -1,0 +1,18 @@
+package Logica;
+
+
+
+/**
+ *
+ * @author Andrey
+ */
+public class CallCenter {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}
